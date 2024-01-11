@@ -4,7 +4,7 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Github/Dmit1514/lesson02/Content/SystemArialFont.spritefont</File>
+    <File>C:/Github/Dmit1514/DMIT-1514/lesson02/Content/SystemArialFont.spritefont</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

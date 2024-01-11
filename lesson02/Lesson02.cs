@@ -11,7 +11,12 @@ namespace lesson02
         private SpriteFont _arial;
         private const int _WindowWidth = 640;
         private const int _WindowHeight = 320;
-        
+        private float _y = 0;
+        private float _amoutToAddToX = 4;
+        private float _x = 0;
+        private float _amoutToAddToY = 4;
+
+
 
         private string _output = "Hello is anyone out there";
         public lesson02()
@@ -19,7 +24,7 @@ namespace lesson02
             this._graphics = new GraphicsDeviceManager(this);
             base.Content.RootDirectory = "Content";
             base.IsMouseVisible = true;
-
+         
 
         }
 
@@ -42,8 +47,12 @@ namespace lesson02
         {
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
-            
-            
+            Vector2 stringDimeation = _arial.MeasureString(_output);
+            _x += _amoutToAddToX;
+            if (_x < 0) 
+            {
+                _amoutToAddToX += -1;
+            }
 
             base.Update(gameTime);
         }
@@ -51,11 +60,11 @@ namespace lesson02
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.DeepPink);
+           
 
             _spriteBatch.Begin();
-            _spriteBatch.DrawString(_arial, _output, new Vector2(0, 0), Color.PeachPuff);
+            _spriteBatch.DrawString(_arial, _output, new Vector2(_x, 0), Color.PeachPuff);
             _spriteBatch.End();
-
             base.Draw(gameTime);
         }
     }
