@@ -1,0 +1,14 @@
+C:\Github\Dmit1514\lesson02\bin\Debug\net7.0\lesson02.exe
+C:\Github\Dmit1514\lesson02\bin\Debug\net7.0\lesson02.deps.json
+C:\Github\Dmit1514\lesson02\bin\Debug\net7.0\lesson02.runtimeconfig.json
+C:\Github\Dmit1514\lesson02\bin\Debug\net7.0\lesson02.dll
+C:\Github\Dmit1514\lesson02\bin\Debug\net7.0\lesson02.pdb
+C:\Github\Dmit1514\lesson02\obj\Debug\net7.0\lesson02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Dmit1514\lesson02\obj\Debug\net7.0\lesson02.AssemblyInfoInputs.cache
+C:\Github\Dmit1514\lesson02\obj\Debug\net7.0\lesson02.AssemblyInfo.cs
+C:\Github\Dmit1514\lesson02\obj\Debug\net7.0\lesson02.csproj.CoreCompileInputs.cache
+C:\Github\Dmit1514\lesson02\obj\Debug\net7.0\lesson02.dll
+C:\Github\Dmit1514\lesson02\obj\Debug\net7.0\refint\lesson02.dll
+C:\Github\Dmit1514\lesson02\obj\Debug\net7.0\lesson02.pdb
+C:\Github\Dmit1514\lesson02\obj\Debug\net7.0\lesson02.genruntimeconfig.cache
+C:\Github\Dmit1514\lesson02\obj\Debug\net7.0\ref\lesson02.dll
