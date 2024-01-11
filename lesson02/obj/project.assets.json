@@ -7537,11 +7537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\Dmit1514\\lesson02\\lesson02.csproj",
+      "projectUniqueName": "C:\\Github\\Dmit1514\\DMIT-1514\\lesson02\\lesson02.csproj",
       "projectName": "lesson02",
-      "projectPath": "C:\\Github\\Dmit1514\\lesson02\\lesson02.csproj",
+      "projectPath": "C:\\Github\\Dmit1514\\DMIT-1514\\lesson02\\lesson02.csproj",
       "packagesPath": "C:\\Users\\carte\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\Dmit1514\\lesson02\\obj\\",
+      "outputPath": "C:\\Github\\Dmit1514\\DMIT-1514\\lesson02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carte\\AppData\\Roaming\\NuGet\\NuGet.Config",

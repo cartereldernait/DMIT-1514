@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+A1N1koqaFd8X/EFGYtXWTTawOlgdfxPNICsqdVvfLLl/RXaXuAi5qa0JccjZErmEFhhUH9uQEyFN85Dav5eug==",
+  "dgSpecHash": "So7KpTTGX2cKBnfWgIs3l8Q46u3mNkLayPPHcyL97CcIM4KlLll+84R+Gmghg0lHgvdNMccqs/r6rmiTqbnuKA==",
   "success": true,
-  "projectFilePath": "C:\\Github\\Dmit1514\\lesson02\\lesson02.csproj",
+  "projectFilePath": "C:\\Github\\Dmit1514\\DMIT-1514\\lesson02\\lesson02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carte\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\carte\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
